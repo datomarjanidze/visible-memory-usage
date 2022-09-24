@@ -11,7 +11,7 @@ class VisibleMemoryUsage {
     fps;
     intervalId;
     constructor(fps = 60, memoryType = "rss") {
-        if (fps < 0 || fps > 60)
+        if (fps < 1 || fps > 60)
             throw new Error(`invalid argument value "${fps}" for "fps"`);
         else
             this.fps = fps;
