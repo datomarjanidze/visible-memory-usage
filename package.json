@@ -1,6 +1,6 @@
 {
   "name": "visible-memory-usage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Display memory usage as bars in the console.",
   "main": "index.js",
   "author": "Dato Marjanidze <datomarjanidze10@gmail.com>",

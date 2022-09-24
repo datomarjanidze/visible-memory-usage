@@ -38,8 +38,8 @@ setTimeout(
       `process.memoryUsage()` returned object and those are:
       `'rss' | 'heapTotal' | 'heapUsed' | 'external' | 'arrayBuffers'`.
       Default value is `'rss'`
-  - **showMemoryUsage():** method is used to display the memory. This
-    method returns a function, which can be called to hide the memory.
+  - **showMemoryUsage():** method is used to display the memory.
+  - **hideMemoryUsage():** method is used to hide the memory.
 
 ### Tip
 
