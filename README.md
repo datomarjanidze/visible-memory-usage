@@ -3,7 +3,7 @@
 ### Installation
 
 ```console
-npm i visible-memory-usage
+npm i -D visible-memory-usage
 ```
 
 ### Description
@@ -18,6 +18,7 @@ argument `--max-old-space-size`.
 ### Usage example
 
 ```typescript
+const { VisibleMemoryUsage } = require("visible-memory-usage");
 const visibleMemoryUsage = new VisibleMemoryUsage();
 
 visibleMemoryUsage.showMemoryUsage();

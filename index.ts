@@ -149,3 +149,5 @@ class VisibleMemoryUsage {
     process.stdout.write(message);
   }
 }
+
+module.exports = { VisibleMemoryUsage };
