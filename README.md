@@ -32,11 +32,12 @@ setTimeout(
 - class `VisibleMemoryUsage`
   - `constructor(fps: number = 60, memoryType: MemoryType = "rss")`
     - **fps (number):** (Frames Per Second) is the frequency at which memory
-      usage will be updated. Its value can be from 1 to 60. Lower the
-      value, lower the CPU load will be. Default is 60
+      usage will be updated. Its value can be from `1` to `60`. Lower the
+      value, lower the CPU load will be. Default is `60`.
     - **memoryType (string):** memory types are the keys of Node.js
       `process.memoryUsage()` returned object and those are:
-      `'rss' | 'heapTotal' | 'heapUsed' | 'external' | 'arrayBuffers'`
+      `'rss' | 'heapTotal' | 'heapUsed' | 'external' | 'arrayBuffers'`.
+      Default value is `'rss'`
   - **showMemoryUsage():** method is used to display memory. This method
     returns a function, which can be called to hide the memory.
 
