@@ -1,4 +1,4 @@
-## Visible Memory Usage v1.1.0 Documentation
+## Visible Memory Usage v1.2.0 Documentation
 
 <p align="center">
   <a href="https://www.npmjs.com/package/visible-memory-usage" target="_blank"><img src="https://img.shields.io/npm/v/visible-memory-usage.svg" alt="NPM Version" /></a>
@@ -33,7 +33,7 @@ npm i -D visible-memory-usage
 ### Usage example
 
 ```typescript
-const { VisibleMemoryUsage } = require('visible-memory-usage')
+import { VisibleMemoryUsage } from 'visible-memory-usage'
 const visibleMemoryUsage = new VisibleMemoryUsage()
 
 visibleMemoryUsage.showMemoryUsage()
