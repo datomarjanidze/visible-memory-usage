@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "module": "ESNext",
-    "target": "ESNext",
-    "strict": true
+    "module": "ES2022",
+    "moduleResolution": "node",
+    "target": "ES2022"
   },
-  "include": ["./index.ts"]
+  "include": ["src/**/*", "rollup.config.ts"]
 }
