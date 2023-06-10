@@ -1,9 +1,8 @@
-## Visible Memory Usage v1.2.0 Documentation
+## Visible Memory Usage v1.3.0 Documentation
 
 <p align="center">
   <a href="https://www.npmjs.com/package/visible-memory-usage" target="_blank"><img src="https://img.shields.io/npm/v/visible-memory-usage.svg" alt="NPM Version" /></a>
   <a href="https://www.npmjs.com/package/visible-memory-usage" target="_blank"><img src="https://img.shields.io/npm/l/visible-memory-usage.svg" alt="Package License" /></a>
-  <a href="https://www.npmjs.com/package/visible-memory-usage" target="_blank"><img src="https://img.shields.io/npm/dm/visible-memory-usage.svg" alt="NPM Downloads" /></a>
 </p>
 
 ### Table of contents
