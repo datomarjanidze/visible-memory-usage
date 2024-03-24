@@ -5,7 +5,7 @@
   "main": "dist/visible-memory-usage.cjs.js",
   "module": "dist/visible-memory-usage.esm.js",
   "types": "dist/visible-memory-usage.d.ts",
-  "author": "Dato Marjanidze <datomarjanidze10@gmail.com>",
+  "author": "Dato Marjanidze",
   "license": "ISC",
   "homepage": "https://github.com/datomarjanidze/visible-memory-usage#readme",
   "files": [
